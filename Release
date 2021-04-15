@@ -1,0 +1,9 @@
+Origin: Reyno source
+Label: Tccpg
+Suite: stable
+Version: 1.0
+Codename: Tccpg
+Architectures: iphoneos-arm
+Components: main
+Description: Reyno source
+

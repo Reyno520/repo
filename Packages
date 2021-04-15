@@ -1,0 +1,46 @@
+Package: com.reyno.NewTerm2
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions <reyno6688@gmail.com>
+Depends: firmware (>=10.0-14.5)|coreutilties, ncurses-term, system-cmds, gettext-localizations
+Filename: ./debs/NewTerm2.deb
+Size: 2018384
+MD5sum: eef85981b0a74c736e5787591607b11e
+SHA1: 2513d2b3ee2fca760df90a16003cd19c563c1ab3
+SHA256: c9e286aa17c71224c5ceb8e98ef23723e5b7be5d6cd5f75d66104bd26b67e17d
+Section: Tweaks
+Description: Terminal command
+Author: HASHBANG Productions <reyno6688@gmail.com>
+Name: NewTerm 2
+
+Package: com.reyno.cydia
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Installed-Size: 100
+Depends: mobilesubstrate
+Filename: ./debs/Fix Cydia startup transparency.deb
+Size: 48244
+MD5sum: 42efd7daa6e239eb024783dbfa5787c1
+SHA1: 1d91d76e810b875d936151ff756899319ea68f63
+SHA256: 4df394ec99f5728f567b0fcbb424d03b72969019a645906f6dba577921ef26ec
+Section: QQ群：152118
+Author: Reyno
+Name: Fix Cydia startup transparency
+Sponsor: Reyno
+
+Package: com.reyno.simplus
+Version: 1.14-beta2
+Architecture: iphoneos-arm
+Maintainer: 152118
+Depends: firmware (>=13.0-14.5)
+Filename: ./debs/eSim+1.14-beta2.deb
+Size: 867752
+MD5sum: dc5e3097cb5eceb8547dfa678d01e4b9
+SHA1: 7ef596bf98dab6c97167e6ee5bcab7e81587696f
+SHA256: 8bb01ad93b457ff46bf790a8caaeccea83039229bdcaaadc4d0b48f53beeb7a8
+Section: Tweaks
+Description: 拨打电话和发送短信时,弹出双卡选项。
+Author: IArrays
+Name: eSim+
+
