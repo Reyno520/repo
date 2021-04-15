@@ -1,0 +1,9 @@
+Package: com.reyno.Fixcydia
+Version: 1.0
+Section: Tweaks
+Maintainer: Reyno <6626753@qq.com>
+Depends: firmware (>=14.0-14.5)|mobilesubstrate
+Architecture: iphoneos-arm
+Name: Fix Cydia startup transparency
+Author: Reyno <6626753@qq.com>
+Description: 修复iPhone 12全机型的Cydia启动透明BUG

@@ -1,33 +1,32 @@
+Package: com.reyno.Fixcydia
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Reyno <6626753@qq.com>
+Depends: firmware (>=14.0-14.5)|mobilesubstrate
+Filename: ./debs/Fix Cydia startup transparency.deb
+Size: 48288
+MD5sum: b8adcaf48076adc3825b8c3ed23a8206
+SHA1: 5d8f5b3289274bb1c93eadbf155ba7066d0f82f3
+SHA256: e78c84e6ce23153fb91a51e6ed2646668a676a8adae0ca7c6d1572c67cc75a52
+Section: Tweaks
+Description: 修复iPhone 12全机型的Cydia启动透明BUG
+Author: Reyno <6626753@qq.com>
+Name: Fix Cydia startup transparency
+
 Package: com.reyno.NewTerm2
 Version: 2.5
 Architecture: iphoneos-arm
-Maintainer: HASHBANG Productions <reyno6688@gmail.com>
+Maintainer: HASHBANG Productions <6626753@qq.com>
 Depends: firmware (>=10.0-14.5)|coreutilties, ncurses-term, system-cmds, gettext-localizations
 Filename: ./debs/NewTerm2.deb
-Size: 2018384
-MD5sum: eef85981b0a74c736e5787591607b11e
-SHA1: 2513d2b3ee2fca760df90a16003cd19c563c1ab3
-SHA256: c9e286aa17c71224c5ceb8e98ef23723e5b7be5d6cd5f75d66104bd26b67e17d
+Size: 2019472
+MD5sum: b2e4a1220cb394887aa9991904ab93d2
+SHA1: a039998f9468c8f84ccf61d59c64de6c3385b593
+SHA256: b9e227d74f39727889c405c9d002edeed588844408bc3c9188d0455dd25b2adb
 Section: Tweaks
-Description: Terminal command
-Author: HASHBANG Productions <reyno6688@gmail.com>
+Description: 在越狱设备上运行的命令终端：可用于修改root密码、安装deb、查CPU等
+Author: HASHBANG Productions <6626753@qq.com>>
 Name: NewTerm 2
-
-Package: com.reyno.cydia
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Reyno
-Installed-Size: 100
-Depends: mobilesubstrate
-Filename: ./debs/Fix Cydia startup transparency.deb
-Size: 48244
-MD5sum: 42efd7daa6e239eb024783dbfa5787c1
-SHA1: 1d91d76e810b875d936151ff756899319ea68f63
-SHA256: 4df394ec99f5728f567b0fcbb424d03b72969019a645906f6dba577921ef26ec
-Section: QQ群：152118
-Author: Reyno
-Name: Fix Cydia startup transparency
-Sponsor: Reyno
 
 Package: com.reyno.simplus
 Version: 1.14-beta2

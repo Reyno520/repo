@@ -1,0 +1,33 @@
+#!/bin/sh
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+firmware=$(sw_vers -productVersion) 
+echo "系统版本:iOS $firmware"
+echo "  "
+echo "开始修复..."
+echo "  "
+
+mkicon()
+{
+ if [ -d $1 ];then
+   cp -af /var/mobile/FixCydia/* $1/
+ else
+   echo "没有$1"
+ fi
+}
+
+mkicon "/Applications/Cydia.app"
+
+echo "  "
+echo "清理缓存过程中...请耐心等待，切勿退出Cydia后台！"
+echo "  "
+echo "修复成功后Cydia会自动关闭……"
+
+uicache --all
+
+echo "  "
+echo "修复完成，可卸载！"
+echo "  "
+echo "iPhone技术交流群:152118！"
+echo "  "
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
