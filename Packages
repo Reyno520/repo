@@ -43,3 +43,18 @@ Description: 拨打电话和发送短信时,弹出双卡选项。
 Author: IArrays
 Name: eSim+
 
+Package: reyno520.github.io.DSR
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Reyno <6626753@qq.com>
+Depends: firmware (>=12.0-14.5)
+Filename: ./debs/reyno520.github.io.dsr_1.0_iphoneos-arm.deb
+Size: 17300
+MD5sum: b2e4093e0de322f5a8da01ad3373199b
+SHA1: 1bc1552904d77ce5cfdd7b464d62c3e0c0a41095
+SHA256: 59ab1bcb9aabea11f68029524248b7302daedbe0619730b68387579c85e590b2
+Section: Mask
+Description: 一款非常漂亮的立体+内边框+玻璃反光的蒙版！
+Author: Reyno <6626753@qq.com>>
+Name: AE-DSR
+
