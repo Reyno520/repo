@@ -2,16 +2,16 @@ Package: com.Reyno.AE-DSR
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
-Depends: firmware (>=13.0-14.5)
+Depends: firmware (>=12.0-14.5)
 Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
-Size: 17316
-MD5sum: e3168820789ed70c98c7bacd1804ed77
-SHA1: 3da22e21835b590118e90face13543968e6003f9
-SHA256: 389b17e4f5a51bb46ee5a4b892b7a236422ae1010619b50b6d8dbae8ec2f7c2a
+Size: 17320
+MD5sum: 04e2114c3728d95136adab10d6ce2c38
+SHA1: 10ae3d30d7c59691c6be00f2837489dd07ccc45e
+SHA256: 6ef049dc2637badb8854672074ec545008d884263daef0521f51274b01cce1de
 Section: 主题
 Description: 一款非常漂亮的立体+内边框+玻璃反光的蒙版！
 Author: Reyno
-Depiction: https://reyno520.github.io/description.html?id=com.Reyno.AE-DSR
+Depiction: https://reyno520.github.io/repo/description.html?id=com.Reyno.AE-DSR
 Name: AE-DSR
 
 Package: com.reyno.Fixcydia
@@ -20,14 +20,14 @@ Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=14.0-14.5)|mobilesubstrate
 Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
-Size: 48316
-MD5sum: 4467e2f0ca042505876124fadcb6a4ae
-SHA1: 32c0f119964d62deb9578c85f3e0091379226ffa
-SHA256: 64d6ebdf00c12a3bf1100f08b45bb6032a7baa9482ef8f68a8f83302be7134f5
+Size: 48320
+MD5sum: 68e7646e7f189b93bf35535cda9104ab
+SHA1: c45d84dba6cdd248edb690790e24a55780a398ce
+SHA256: 4e2a1c97b8d65141d16a836c959446ec0f35ccaacb260126cf625ee1c84e3cf6
 Section: Tweaks
 Description: 修复iPhone 12全机型的Cydia启动透明BUG
 Author: Reyno
-Depiction: https://reyno520.github.io/description.html?id=com.reyno.Fixcydia
+Depiction: https://reyno520.github.io/repo/description.html?id=com.reyno.Fixcydia
 Name: Fix Cydia startup transparency
 
 Package: com.reyno.NewTerm2
@@ -36,29 +36,29 @@ Architecture: iphoneos-arm
 Maintainer: HASHBANG Productions
 Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
 Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.newterm2_2.5_iphoneos-arm.deb
-Size: 2019284
-MD5sum: 3f0df8e2dc5c5b2e1ceaf04c13eb4625
-SHA1: 74c5b1c96ac143b093110ee2f28b6b59a34431af
-SHA256: d1d6dc10a846aa9f4ef733d59cecde5dcd076469bac59cf34f6980052c9e478d
+Size: 2019760
+MD5sum: 97c377d1c9ad1f90785f88c7df3e63ff
+SHA1: 526ee74e3c9cee683274c16a255e9af6d006da3b
+SHA256: 378ee7304b7dd4524138531d3495b7d94f342f04d3ed26e2a3f8294b385fc56d
 Section: Tweaks
 Description: 在越狱设备上运行的命令终端：可用于修改root密码、安装deb、查CPU等
 Author: HASHBANG Productions
-Depiction: https://reyno520.github.io/description.html?id=com.reyno.NewTerm2
+Depiction: https://reyno520.github.io/repo/description.html?id=com.reyno.NewTerm2
 Name: NewTerm 2
 
 Package: com.reyno.simplus
 Version: 1.14-beta2
 Architecture: iphoneos-arm
-Maintainer: IArrays
+Maintainer: 152118
 Depends: firmware (>=13.0-14.5)
 Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.simplus_1.14-beta2_iphoneos-arm.deb
-Size: 868464
-MD5sum: 8223b5c315f9fbc529ad69a4bdbf011b
-SHA1: 652efe158c8f515ef8f2225ecb44552b381ad84e
-SHA256: 555b2632aca24b8eb3fd4c0a372a9554b0eccf482b0b2b37c9bf123a3c3bd661
+Size: 867676
+MD5sum: e3ba86b5bae759c3e56f3f4f15d2e553
+SHA1: dc29b27376ddc253db4a1202c997bd451af984c3
+SHA256: fbfc007862e2b5df2fc792b84f48d8fa4c5ed30ade6e74b80b7145bab2d00bfa
 Section: Tweaks
 Description: 拨打电话和发送短信时,弹出双卡选项。
 Author: IArrays
-Depiction: https://reyno520.github.io/description.html?id=com.reyno.simplus
+Https: //reyno520.github.io/repo/description.html?id=com.reyno.simplus
 Name: eSim+
 
