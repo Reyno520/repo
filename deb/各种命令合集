@@ -12,6 +12,8 @@ dpkg-deb -b extract/ build/
 
 
 
+
+
 Package: com.reyno.NewTerm2
 Version: 2.5
 Section: Tweaks
@@ -21,3 +23,5 @@ Architecture: iphoneos-arm
 Name: NewTerm 2
 Author: HASHBANG Productions <6626753@qq.com>>
 Description: 在越狱设备上运行的命令终端：可用于修改root密码、安装deb、查CPU等
+
+=================================================================================================

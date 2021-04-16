@@ -1,0 +1,35 @@
+环境要求：
+MacOS
+已安装Xcode和Xcode Command Tools。自己装
+安装 Macports 官网，找到符合系统版本的ports。自己安装，等待安装需要很长时间。
+安装github桌面版。自己装
+安装dpkg
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+sudo port -f install dpkg
+
+
+在github官网新建项目image
+
+点击create repository
+用桌面版打开image
+下载到电脑，下载路径是可以更改的，我装在了用户目录的根目录下image
+克隆完成后打开目录，把这两个文件放进去
+并同时创建文件夹，名字叫debs，把你要上传的插件deb包放入image
+release用sublime或者别的文本编辑器打开，把源名称和描述改成你自己想要的
+打开终端，cd到当前目录，输入
+sudo chmod -R 777 XX/update.sh
+./update.sh
+
+可以看到github桌面版中自动显示了文件的变动，Summary必须要填一下，比如这次更新什么东西，描述一下，然后提交image
+
+进入尾声，刷新你的项目地址，可以看到你提交的内容了image
+
+更改github pages设置，在Source类型这里改成master branch，就能看到你的网站地址image
+如图这个就是你的cydia源地址image
+所有工作完成，去cydia或者斑马中添加这个源即可。
+那么怎么更新上传deb呢？
+
+把deb包放到刚才的debs文件夹中，再次运行update.shimage
+同时github桌面版会检测到文件变动，Summary必须要再次填一下，最后提交并公布即可imageimage
+这样就全部完成了。
+也可以在gitee上部署cydia源，并且能高速访问，只是对于空间大小有限制，它和这个教程的方法类似，并且也能用github桌面版推送，区别只是他的pages在项目页面的服务-gitee pages这里生成源地址。

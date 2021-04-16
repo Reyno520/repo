@@ -1,6 +1,6 @@
-Package: reyno520.github.io.DSR
+Package: com.Reyno.AE-DSR
 Version: 1.0
-Section: Mask
+Section: 主题
 Maintainer: Reyno <6626753@qq.com>
 Depends: firmware (>=12.0-14.5)
 Architecture: iphoneos-arm
