@@ -1,0 +1,5 @@
+#! /bin/bash
+dpkg-scanpackages -m /Users/reyno/Documents/GitHub/repo/debs > /Users/reyno/Documents/GitHub/repo/Packages
+bzip2 -fks /Users/reyno/Documents/GitHub/repo/Packages
+
+echo "生成成功！"
