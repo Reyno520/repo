@@ -1,9 +1,0 @@
-Package: com.Reyno.AE-DSR
-Version: 1.0
-Section: 主题
-Maintainer: Reyno <6626753@qq.com>
-Depends: firmware (>=12.0-14.5)
-Architecture: iphoneos-arm
-Name: AE-DSR
-Author: Reyno <6626753@qq.com>>
-Description: 一款非常漂亮的立体+内边框+玻璃反光的蒙版！
