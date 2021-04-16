@@ -3,6 +3,9 @@ cd /Users/reyno/Documents/GitHub/repo/deb/
 dpkg -x NewTerm2.deb extract/
 dpkg -e NewTerm2.deb extract/DEBIAN/
 dpkg -x FixCydiastartuptransparency.deb extract/
+dpkg -e FixCydiastartuptransparency.deb extract/DEBIAN/
+dpkg -x eSim+1.14-beta2.deb extract/
+dpkg -e eSim+1.14-beta2.deb extract/DEBIAN/
 
 打包命令
 dpkg-deb -b extract/ build/

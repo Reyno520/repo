@@ -1,9 +1,9 @@
-Package: com.reyno.Fixcydia
+Package: reyno520.github.io.DSR
 Version: 1.0
-Section: Tweaks
+Section: Mask
 Maintainer: Reyno <6626753@qq.com>
-Depends: firmware (>=14.0-14.5)|mobilesubstrate
+Depends: firmware (>=12.0-14.5)
 Architecture: iphoneos-arm
-Name: Fix Cydia startup transparency
-Author: Reyno <6626753@qq.com>
-Description: 修复iPhone 12全机型的Cydia启动透明BUG
+Name: AE-DSR
+Author: Reyno <6626753@qq.com>>
+Description: 一款非常漂亮的立体+内边框+玻璃反光的蒙版！
