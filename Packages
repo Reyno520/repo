@@ -1,3 +1,18 @@
+Package: com.Reyno.AE-DSR
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Reyno <6626753@qq.com>
+Depends: firmware (>=12.0-14.5)
+Filename: ./debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
+Size: 17292
+MD5sum: 3ee9ed2c6f6a3af41c0d9f72bd13e223
+SHA1: 3e029f9ed4168fafff996d2ab334713ae290cb32
+SHA256: b98c4d889975332f4dfb4bd17593f25aea99f1c586fbf9ae258d17c766dfdb7e
+Section: 主题
+Description: 一款非常漂亮的立体+内边框+玻璃反光的蒙版！
+Author: Reyno <6626753@qq.com>>
+Name: AE-DSR
+
 Package: com.reyno.Fixcydia
 Version: 1.0
 Architecture: iphoneos-arm
@@ -42,19 +57,4 @@ Section: Tweaks
 Description: 拨打电话和发送短信时,弹出双卡选项。
 Author: IArrays
 Name: eSim+
-
-Package: reyno520.github.io.DSR
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Reyno <6626753@qq.com>
-Depends: firmware (>=12.0-14.5)
-Filename: ./debs/reyno520.github.io.dsr_1.0_iphoneos-arm.deb
-Size: 17300
-MD5sum: b2e4093e0de322f5a8da01ad3373199b
-SHA1: 1bc1552904d77ce5cfdd7b464d62c3e0c0a41095
-SHA256: 59ab1bcb9aabea11f68029524248b7302daedbe0619730b68387579c85e590b2
-Section: Mask
-Description: 一款非常漂亮的立体+内边框+玻璃反光的蒙版！
-Author: Reyno <6626753@qq.com>>
-Name: AE-DSR
 
