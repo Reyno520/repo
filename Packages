@@ -50,16 +50,16 @@ Name: Fix Cydia startup transparency
 Package: com.reyno.simplus
 Version: 1.14-beta2
 Architecture: iphoneos-arm
-Maintainer: 152118
+Maintainer: IArrays
 Depends: firmware (>=13.0-14.5)
 Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.simplus_1.14-beta2_iphoneos-arm.deb
-Size: 867676
-MD5sum: e3ba86b5bae759c3e56f3f4f15d2e553
-SHA1: dc29b27376ddc253db4a1202c997bd451af984c3
-SHA256: fbfc007862e2b5df2fc792b84f48d8fa4c5ed30ade6e74b80b7145bab2d00bfa
+Size: 867528
+MD5sum: 93c38ff0b224a0eee7361de9402b3ff7
+SHA1: 1dbddde373100999af92170f68b2838865907883
+SHA256: aa21f35adbb990c317e9a70720c3befdc329727367359e8eabe9efc63e79b22d
 Section: Tweaks
 Description: 拨打电话和发送短信时,弹出双卡选项。
 Author: IArrays
-Https: //reyno520.github.io/repo/description.html?id=com.reyno.simplus
+Depiction: https://reyno520.github.io/repo/description.html?id=com.reyno.simplus
 Name: eSim+
 
