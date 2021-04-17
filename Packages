@@ -14,6 +14,23 @@ Author: Reyno
 Depiction: https://reyno520.github.io/repo/description.html?id=com.Reyno.AE-DSR
 Name: AE-DSR
 
+Package: com.Reyno.Newterm2
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.newterm2_2.5_iphoneos-arm.deb
+Size: 2019120
+MD5sum: 2bf5db15f90fb9dcd7b1001adc22bed9
+SHA1: 025b2a0d9e29638bdb6320edf06e6f4a5626b7a9
+SHA256: cbe9fa4167c785817141c00498b8d5fd63b6e5846a68998e3a4d095d298fedcc
+Section: Tweaks
+Description: 在越狱设备上运行的命令终端：可用于修改root密码、安装deb、查CPU等
+Author: HASHBANG Productions
+Depiction: https://reyno520.github.io/repo/description.html?id=com.Reyno.NewTerm2
+Name: Newterm 2
+
 Package: com.reyno.Fixcydia
 Version: 1.0
 Architecture: iphoneos-arm
@@ -29,22 +46,6 @@ Description: 修复iPhone 12全机型的Cydia启动透明BUG
 Author: Reyno
 Depiction: https://reyno520.github.io/repo/description.html?id=com.reyno.Fixcydia
 Name: Fix Cydia startup transparency
-
-Package: com.reyno.NewTerm2
-Version: 2.5
-Architecture: iphoneos-arm
-Maintainer: HASHBANG Productions
-Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.newterm2_2.5_iphoneos-arm.deb
-Size: 2019760
-MD5sum: 97c377d1c9ad1f90785f88c7df3e63ff
-SHA1: 526ee74e3c9cee683274c16a255e9af6d006da3b
-SHA256: 378ee7304b7dd4524138531d3495b7d94f342f04d3ed26e2a3f8294b385fc56d
-Section: Tweaks
-Description: 在越狱设备上运行的命令终端：可用于修改root密码、安装deb、查CPU等
-Author: HASHBANG Productions
-Depiction: https://reyno520.github.io/repo/description.html?id=com.reyno.NewTerm2
-Name: NewTerm 2
 
 Package: com.reyno.simplus
 Version: 1.14-beta2
