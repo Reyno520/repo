@@ -47,6 +47,38 @@ Author: Reyno
 Depiction: https://reyno520.github.io/repo/description.html?id=com.reyno.Fixcydia
 Name: Fix Cydia startup transparency
 
+Package: com.reyno.PullOverPro
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.pulloverpro_2.1.1_iphoneos-arm.deb
+Size: 746600
+MD5sum: bdf7232037279a45047ae91343ceafdd
+SHA1: 76da9554b0116a8aca468f808de0fa62b0aac474
+SHA256: ee47b0e4b796528b860a8a89cc6b7c829ec98bb60ce271d5054a255d1d3cbaf0
+Section: Tweaks
+Description: 侧边快捷切换应用程序、双重的便捷操作、可自由添加喜欢的应用来进行切换操作（非破解版，只是整合了修复补丁，支持IOS14）
+Author: c1d3r
+Depiction: https://reyno520.github.io/repo/description.html?id=com.reyno.PullOverPro
+Name: PullOver Pro
+
+Package: com.reyno.libapappview
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Baw Appie
+Depends: firmware (>= 11.0)
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.libapappview_1.0_iphoneos-arm.deb
+Size: 23176
+MD5sum: 908f25659390a05ce95acbf5a73a5068
+SHA1: 63bdbd1ceb024adf537a7b177a5ffc3a8702f447
+SHA256: f9cfc2a39be376bdf7de4a5c2b5a985cf9df09e3a2334f77ab4027c4a41bfd52
+Section: 依赖
+Description: 用于PullOver Pro的依赖补丁！
+Author: Baw Appie
+Depiction: https://reyno520.github.io/repo/description.html?id=com.reyno.libapappview
+Name: libapappview
+
 Package: com.reyno.simplus
 Version: 1.14-beta2
 Architecture: iphoneos-arm
