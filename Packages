@@ -4,16 +4,15 @@ Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=12.0-14.5)
 Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
-Size: 17324
-MD5sum: d13e40ef0712d71b28a47dd94cf8a754
-SHA1: 3533954f869298e6b01be27340d36bd6838b9575
-SHA256: 1315efc323da46157da89c6ce11773e2cf82f28bc78491a2a0c05b1b118696da
+Size: 17320
+MD5sum: 04e2114c3728d95136adab10d6ce2c38
+SHA1: 10ae3d30d7c59691c6be00f2837489dd07ccc45e
+SHA256: 6ef049dc2637badb8854672074ec545008d884263daef0521f51274b01cce1de
 Section: 主题
 Description: 一款非常漂亮的立体+内边框+玻璃反光的蒙版！
 Author: Reyno
 Depiction: https://reyno520.github.io/repo/description.html?id=com.Reyno.AE-DSR
 Name: AE-DSR
-Sileodepiction: https://reyno520.github.io/repo/description.html?id=com.Reyno.AE-DSR
 
 Package: com.Reyno.Newterm2
 Version: 2.5
