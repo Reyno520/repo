@@ -1,6 +1,6 @@
 #!/bin/sh
 
-dpkg-scanpackages -m ./debs > Packages
+dpkg-scanpackages -m /Users/reyno/Documents/GitHub/repo/Packages > Packages
 rm -r -f /Users/reyno/Documents/GitHub/repo/Packages.bz2
 bzip2 Packages
-dpkg-scanpackages -m ./debs > Packages
+dpkg-scanpackages -m /Users/reyno/Documents/GitHub/repo/Packages > Packages
