@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=12.0-14.5)
-Filename: ./debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
 Size: 17052
 MD5sum: e4d35b10f7d36d6959ebb182ebd0063c
 SHA1: 52aa8443f95f6f34efba4d5652ca7a601fa53bbb
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: HASHBANG Productions
 Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
 Conflicts: ws.hbang.newterm, com.lint.ntarrows
-Filename: ./debs/com.reyno.newterm2_2.5_iphoneos-arm.deb
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.newterm2_2.5_iphoneos-arm.deb
 Size: 2018900
 MD5sum: 4c2bf270746c19e013e009970540d28f
 SHA1: e87436b18725cc508bf843382732cfbf6d3f0010
@@ -36,7 +36,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=14.0-14.5)|mobilesubstrate
-Filename: ./debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
 Size: 47792
 MD5sum: 2c25e99a7d2409343f71325a75b3a950
 SHA1: 0b51f751ad185f2692a203a982d3aad7d0ca9ab6
@@ -52,7 +52,7 @@ Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: c1d3r
 Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
-Filename: ./debs/com.reyno.pulloverpro_2.1.1_iphoneos-arm.deb
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.pulloverpro_2.1.1_iphoneos-arm.deb
 Size: 746600
 MD5sum: 3f1384f21a2b4ab18e0155c058d2dd58
 SHA1: b17c5d6f540502748b4bbb0ea1d5770bb56568e6
@@ -68,7 +68,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Baw Appie
 Depends: firmware (>= 11.0)
-Filename: ./debs/com.reyno.libapappview_1.0_iphoneos-arm.deb
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.libapappview_1.0_iphoneos-arm.deb
 Size: 23176
 MD5sum: 9eb7dca2d4b317a50c9c2f214d3a8f59
 SHA1: 3b16de6ee90e2d53063ee1a2dd9f2349bfd81c52
@@ -84,7 +84,7 @@ Version: 1.14-beta2
 Architecture: iphoneos-arm
 Maintainer: IArrays
 Depends: firmware (>=13.0-14.5)
-Filename: ./debs/com.reyno.simplus_1.14-beta2_iphoneos-arm.deb
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.simplus_1.14-beta2_iphoneos-arm.deb
 Size: 867424
 MD5sum: 0270d3310f12484c234f14a8cf5f2d37
 SHA1: b5ece47fb9af53197e74a5ecf3d48a7438d39f07
