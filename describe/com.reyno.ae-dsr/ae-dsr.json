@@ -9,8 +9,8 @@
                     "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://apt.reyno.top/depictions/com.reyno.ae-dsr/screenshots/AE.jpg"
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://apt.reyno.top/describe/com.reyno.ae-dsr/screenshots/AE.jpg"
                         }
                     ]
                 },
@@ -37,8 +37,8 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Full support iOS 14.x",
-                    "useSpacing": false
+                    "markdown": "兼容iOS 14.x",
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -89,19 +89,25 @@
                 },
                 {
                     "class": "DepictionTableButtonView",
-                    "title": "Reyno QQ群",
+                    "title": "QQ群",
                     "action": "https://qm.qq.com/cgi-bin/qm/qr?k=9hxPw82vb80NJVND0Wp-vBlQ7b3vSjDE&jump_from=webapi/"
                 },
                 {
                     "class": "DepictionTableButtonView",
-                    "title": "Reyno 微博",
+                    "title": "微博",
                     "action": "https://weibo.com/u/2691971604"
                 },
                 {
                     "class": "DepictionTableButtonView",
-                    "title": "Reyno 维特",
+                    "title": "Twitter",
                     "action": "https://twitter.com/Reyno888"
                 },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "请我喝咖啡",
+                    "url": "https://apt.reyno.top/images/weixin.png"
+                },
+
             ]
         }
     ],
