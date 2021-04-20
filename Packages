@@ -15,21 +15,22 @@ Author: HASHBANG Productions
 Depiction: https://apt.reyno.top/description.html?id=com.Reyno.NewTerm2
 Name: Newterm 2
 
-Package: com.reyno.AE-DSR
+Package: com.Reyno.ae-dsr
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=12.0-14.5)
 Filename: ./debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
-Size: 16896
-MD5sum: 32148b7d14fe317837185430e622a4c7
-SHA1: cdef30f68afe294e4ed7b5f0e18f66bd31ac10cc
-SHA256: fc5ede91897de3c2a802aa57ce8fa9022ea8caa56435ad936018ba14fc2befa9
+Size: 15848
+MD5sum: c096ef77ea0f4dd5b562670fe5132105
+SHA1: 3a6eb3b3eaac978898bdbe12cf9f635c9967887c
+SHA256: f97e21aa6218310ce3ad0354e2364e5366b0bbcd89d1613df90873c6e198247e
 Section: 主题
-Description: 一款非常漂亮的立体+内边框+玻璃反光的蒙版！
+Description: 一款非常漂亮的立体感内框玻璃蒙版！
 Author: Reyno
-Depiction: https://apt.reyno.top/description.html?id=com.reyno.AE-DSR
-Name: AE-DSR
+Depiction: https://reyno520.github.io/repo/description.html?id=com.Reyno.ae-dsr
+Name: ae-dsr
+Sileodepiction: https://apt.reyno.top/depictions/com.reyno.ae-dsr/ae-dsr.json
 
 Package: com.reyno.Fixcydia
 Version: 1.0
