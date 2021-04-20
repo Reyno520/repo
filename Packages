@@ -21,16 +21,16 @@ Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=12.0-14.5)
 Filename: ./debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
-Size: 15848
-MD5sum: c096ef77ea0f4dd5b562670fe5132105
-SHA1: 3a6eb3b3eaac978898bdbe12cf9f635c9967887c
-SHA256: f97e21aa6218310ce3ad0354e2364e5366b0bbcd89d1613df90873c6e198247e
+Size: 15836
+MD5sum: e41ff06ab19980db4093be2c6f66f2b0
+SHA1: 4b112496cf4a37c86ddb224d1eb7a429c2ffebf7
+SHA256: e5d93047a7ad2b4a8c5c7b8bfa09132c7135c3cabe84d022297f01ec3dc79ec3
 Section: 主题
 Description: 一款非常漂亮的立体感内框玻璃蒙版！
 Author: Reyno
-Depiction: https://reyno520.github.io/repo/description.html?id=com.Reyno.ae-dsr
+Depiction: https://apt.reyno.top/repo/description.html?id=com.Reyno.ae-dsr
 Name: ae-dsr
-Sileodepiction: https://apt.reyno.top/depictions/com.reyno.ae-dsr/ae-dsr.json
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
 
 Package: com.reyno.Fixcydia
 Version: 1.0
