@@ -1,0 +1,43 @@
+<package>
+	<id>com.reyno.ae-dsr</id>
+	<name>ae dsr</name>
+    <version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+			<otherVersions>unconformed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<shortDescription>AE-DSR</shortDescription>
+	<descriptionlist>
+		<description>立体感加强的内框玻璃蒙版.</description>
+<!--		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+	</description> -->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>AE.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>适用所有系列</change>
+	</changelog>
+	<links>
+                <link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Reyno888</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>weibo</name>
+			<url>https://weibo.com/u/2691971604</url>
+			<iconclass>fa fa-weibo</iconclass>
+		</link>
+	</links>
+</package>
+
