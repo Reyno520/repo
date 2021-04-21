@@ -105,7 +105,7 @@
                 {
                     "class": "DepictionTableButtonView",
                     "title": "请我喝咖啡",
-                    "url": "https://apt.reyno.top/images/weixin.png"
+                    "action":  "https://apt.reyno.top/images/weixin.png"
                 },
 
             ]
