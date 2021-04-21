@@ -29,14 +29,24 @@
 	</changelog>
 	<links>
                 <link>
-			<name>Twitter</name>
-			<url>https://twitter.com/Reyno888</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>QQ群</name>
+			<url>https://qm.qq.com/cgi-bin/qm/qr?k=9hxPw82vb80NJVND0Wp-vBlQ7b3vSjDE&jump_from=webapi/</url>
+			<iconclass>fa fa-QQ群</iconclass>
 		</link>
 		<link>
-			<name>weibo</name>
+			<name>微博</name>
 			<url>https://weibo.com/u/2691971604</url>
-			<iconclass>fa fa-weibo</iconclass>
+			<iconclass>fa fa-微博</iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://weibo.com/u/2691971604</url>
+			<iconclass>fa fa-Twitter</iconclass>
+		</link>
+		<link>
+			<name>请我喝咖啡</name>
+			<url>https://apt.reyno.top/images/weixin.png</url>
+			<iconclass>fa fa-请我喝咖啡</iconclass>
 		</link>
 	</links>
 </package>
