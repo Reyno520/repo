@@ -1,42 +1,9 @@
-Package: com.Reyno.Newterm2
-Version: 2.5
-Architecture: iphoneos-arm
-Maintainer: HASHBANG Productions
-Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
-Conflicts: ws.hbang.newterm, com.lint.ntarrows
-Filename: ./debs/com.reyno.newterm2_2.5_iphoneos-arm.deb
-Size: 2018504
-MD5sum: b408f90f7bd4d6096047084e87330ba9
-SHA1: 156a2ee417d5a38bb24c6f1e58addf06dd1c9b20
-SHA256: 91fee2f5fdada4a4ce316f74b0628f22a557449afaf19dbd085920d754a04b86
-Section: Tweaks
-Description: 在越狱设备上运行的命令终端：可用于修改root密码、安装deb、查CPU等
-Author: HASHBANG Productions
-Depiction: https://apt.reyno.top/description.html?id=com.Reyno.NewTerm2
-Name: Newterm 2
-
-Package: com.reyno.PullOverPro
-Version: 2.1.1
-Architecture: iphoneos-arm
-Maintainer: c1d3r
-Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
-Filename: ./debs/com.reyno.pulloverpro_2.1.1_iphoneos-arm.deb
-Size: 744656
-MD5sum: 3a06426615122e8270ac80787e01ecb5
-SHA1: fd829739a55e37f1be0e744f51bdd0b959bcce66
-SHA256: b1bfc08d8cbc6ca6e82a8f8614c6cb18da110735a01ee7784e1878c6532264fc
-Section: Tweaks
-Description: 侧边快捷切换应用程序、双重的便捷操作、可自由添加喜欢的应用来进行切换操作（非破解版，只是整合了修复补丁，支持IOS14）
-Author: c1d3r
-Depiction: https://apt.reyno.top/description.html?id=com.reyno.PullOverPro
-Name: PullOver Pro
-
 Package: com.reyno.ae-dsr
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=12.0-14.5)
-Filename: ./debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
 Size: 16192
 MD5sum: 3be37a6668654e4901d0d908c0283afb
 SHA1: 59540216c4abfef34ae6be349133aba4cd708f56
@@ -53,7 +20,7 @@ Version: 1.1-3
 Architecture: iphoneos-arm
 Maintainer: Netskao
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.reyno.disablen-paste-notice_1.1-3_iphoneos-arm.deb
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.disablen-paste-notice_1.1-3_iphoneos-arm.deb
 Size: 7656
 MD5sum: 519ec6f9aec463f1121073779ee9eb51
 SHA1: af554b1fcc60408f5deb24974c7c8f23387de836
@@ -70,7 +37,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=14.0-14.5),mobilesubstrate
-Filename: ./debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
 Size: 47440
 MD5sum: 24888e21b41d6222464287541f02a7d7
 SHA1: 74cb8c2eb8e182ab7a0501c770a02a6451563fc3
@@ -87,45 +54,84 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Baw Appie
 Depends: firmware (>= 11.0)
-Filename: ./debs/com.reyno.libapappview_1.0_iphoneos-arm.deb
-Size: 22536
-MD5sum: 68bc5adba3deffb7efb8a22161c3265c
-SHA1: a3d9416393b8354c2a65632bc46fbc4794d273d0
-SHA256: 8fa5d4237b7f87aa2780c28f3eca7592a1b13c985272f793f23a0d3ac34691a9
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.libapappview_1.0_iphoneos-arm.deb
+Size: 22680
+MD5sum: aba96775ffba6c07e8e182c062f510dd
+SHA1: c3dc2d6820afc4bf25502ff1292280ec994248bb
+SHA256: 6963c666495d8848b0d3e0f91a708bde3ab768bf81ca38113e9dde36da7bd411
 Section: 依赖
-Description: 用于PullOver Pro的依赖补丁！
+Description: 安装PullOver Pro插件需装依赖！
 Author: Baw Appie
-Depiction: https://apt.reyno.top/description.html?id=com.reyno.libapappview
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.libapappview
 Name: libapappview
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.libapappview/libapappview.json
+
+Package: com.reyno.lockscreen-wake
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nets Cydiabc Spark
+Depends: firmware (>= 11.0),mobilesubstrate
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.lockscreen-wake_1.0_iphoneos-arm.deb
+Size: 15652
+MD5sum: 209ae9ad783e7821aa90c88078240f25
+SHA1: e04048d3b4f13ae846d7ee79444603d4716cc7c2
+SHA256: 2a1a786f28033fefc492c67f49393b9d6a7989a49bc1b3e37e83aebea7ad2c9c
+Section: Tweaks
+Description: 双击解锁和唤醒、单击小圆点锁屏、通知界面和亮屏界面双击息屏！
+Author: Netskao Cydiabc Spark
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.lockscreen-wake
+Name: LockScreen and wake
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.lockscreen-wake/lockscreen-wake.json
+
+Package: com.reyno.newterm2
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.newterm2_2.5_iphoneos-arm.deb
+Size: 2018444
+MD5sum: 3b36a008143b9bf1749c0ac75d5d0492
+SHA1: f40b80d9e2fb709f0874256a5fa6b4e06819627e
+SHA256: 4a748a1d47b338844ccc86c96df34f343c9d3694994bc0c98f8d2c21c5a5ac48
+Section: Tweaks
+Description: 在越狱设备上运行的命令终端：可用于修改root密码、安装deb、查CPU等
+Author: HASHBANG Productions
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.newterm2
+Name: Newterm 2
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.newterm2/newterm2.json
+
+Package: com.reyno.pulloverpro
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.pulloverpro_2.1.1_iphoneos-arm.deb
+Size: 744648
+MD5sum: a235a719396dbaecc3e4da4c1406b5c0
+SHA1: baaa1db4c276679de73ed60675bd8e1d36bda5bb
+SHA256: f54072b19c60e2a9441277685f3e158799af96b2a0d5f14e663eb8dedeb9376a
+Section: Tweaks
+Description: 侧边快捷切换应用程序、双重的便捷操作、可自由添加喜欢的应用来进行切换操作（自行破解，本版仅整合了修复键盘的补丁）
+Author: c1d3r
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.pulloverpro
+Name: PullOver Pro
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.pulloverpro/pulloverpro.json
 
 Package: com.reyno.simplus
 Version: 1.14-beta2
 Architecture: iphoneos-arm
 Maintainer: IArrays
 Depends: firmware (>=13.0-14.5)
-Filename: ./debs/com.reyno.simplus_1.14-beta2_iphoneos-arm.deb
-Size: 866768
-MD5sum: bc5bef59a971b99e7dfc42742e7d2fc0
-SHA1: 6196139a2d97047c8f8586c3e376a8a3f9d2b34e
-SHA256: a1c2c02e540ca24106fccddb0fd10389771a78cbb2f958c8b2abcd0fd720cdf5
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.simplus_1.14-beta2_iphoneos-arm.deb
+Size: 867116
+MD5sum: 76f647e2b8aa79d00c6e736771a5e82a
+SHA1: 7aa830c451e1b0f4b25e205f69e89602be3ba5cc
+SHA256: f102c036c21fa6a89dd824c5ad63c7ac6d336194540ccb7a25f796ddd4b2c11b
 Section: Tweaks
-Description: 拨打电话和发送短信时,弹出双卡选项。(中文破解版)
+Description: 中文破解版-拨打电话和发送短信时,弹出双卡选项。
 Author: IArrays
-Depiction: https://apt.reyno.top/description.html?id=com.reyno.simplus
+Depiction: ttps://apt.reyno.top/describe/?p=com.reyno.simplus
 Name: eSim+
-
-Package: reyno.yourepo.LockScreen-wake
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Nets Cydiabc Spark
-Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/reyno.yourepo.lockscreen-wake_1.0_iphoneos-arm.deb
-Size: 15600
-MD5sum: 5be3ca7ad0fa7bc3fb7302a6386dd0e0
-SHA1: ab3be65ff280cd279117a0d7ffe73756c232b547
-SHA256: 764715e34ba45d6808e529fd52f97c50234dfdedf918675d6ccd7fe5be32cd5e
-Section: Tweaks
-Description: 双击解锁和唤醒、单击小圆点锁屏、通知界面和亮屏界面双击息屏！
-Author: Netskao Cydiabc Spark
-Name: LockScreen and wake
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.simplus/simplus.json
 

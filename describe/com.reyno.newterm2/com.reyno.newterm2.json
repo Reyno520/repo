@@ -1,0 +1,118 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [{
+            "class": "DepictionStackView",
+            "tabname": "截图",
+            "views": [{
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://apt.reyno.top/describe/com.reyno.newterm2/screenshots/NT1.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://apt.reyno.top/describe/com.reyno.newterm2/screenshots/NT2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "在越狱ymtlh运行的命令终端：可用于修改ROOT密码、安装deb、查CPU等"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Latest Changes",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "兼容iOS 14.x",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Informations",
+                    "useBoldText": true
+                },
+                {
+                    "title": "Current Version",
+                    "text": "2.5",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2021-04-20",
+                    "title": "Last Time Updated"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2021-03-20",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "免费"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 12 & 14"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Devices",
+                    "text": "适用所有设备"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Reyno"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "QQ群",
+                    "action": "https://qm.qq.com/cgi-bin/qm/qr?k=9hxPw82vb80NJVND0Wp-vBlQ7b3vSjDE&jump_from=webapi/"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "微博",
+                    "action": "https://weibo.com/u/2691971604"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Twitter",
+                    "action": "https://twitter.com/Reyno888"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "请我喝咖啡",
+                    "action":  "https://apt.reyno.top/images/weixin.png"
+                },
+
+            ]
+        }
+    ],
+}

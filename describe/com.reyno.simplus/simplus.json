@@ -1,0 +1,114 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [{
+            "class": "DepictionStackView",
+            "tabname": "截图",
+            "views": [{
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://apt.reyno.top/describe/com.reyno.simplus/screenshots/SS.jpg"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "拨打电话和发送短信时，弹出双卡选项，内置了芯片图标、中文破解版"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Latest Changes",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "兼容iOS 14.x",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Informations",
+                    "useBoldText": true
+                },
+                {
+                    "title": "Current Version",
+                    "text": "1.14-beta2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2021-04-20",
+                    "title": "Last Time Updated"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2021-03-20",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "免费"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 12 & 14"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Devices",
+                    "text": "适用所有设备"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Reyno"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "QQ群",
+                    "action": "https://qm.qq.com/cgi-bin/qm/qr?k=9hxPw82vb80NJVND0Wp-vBlQ7b3vSjDE&jump_from=webapi/"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "微博",
+                    "action": "https://weibo.com/u/2691971604"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Twitter",
+                    "action": "https://twitter.com/Reyno888"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "请我喝咖啡",
+                    "action":  "https://apt.reyno.top/images/weixin.png"
+                },
+
+            ]
+        }
+    ],
+}
