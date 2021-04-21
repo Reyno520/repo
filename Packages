@@ -54,10 +54,10 @@ Architecture: iphoneos-arm
 Maintainer: Netskao
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.reyno.disablen-paste-notice_1.1-3_iphoneos-arm.deb
-Size: 8196
-MD5sum: ecd12be284971d270f21dbccbaa8d7bc
-SHA1: f30181055d3351bd873343ae829dddce8d98915c
-SHA256: b1f1e16100f0627693320b9dc2feb044fc30675d4a6d795f419f87ae3a4c4b9b
+Size: 7656
+MD5sum: 519ec6f9aec463f1121073779ee9eb51
+SHA1: af554b1fcc60408f5deb24974c7c8f23387de836
+SHA256: ca99aeee5a02e5819d78f74e3e6490578ed4c8cf023e63dbc55a877d0df64e00
 Section: Tweaks
 Description: 禁用iOS14的粘贴提示和快捷指令自动化执行后的通知栏，这是Netskao的两个插件，为了方便整合到一起，想必都用到！
 Author: Netskao
@@ -71,10 +71,10 @@ Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=14.0-14.5),mobilesubstrate
 Filename: ./debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
-Size: 48052
-MD5sum: dabca036f1454e5e08bc351f8091577b
-SHA1: 6a1ad93a35462aa0b42479bdf2a9034618c56788
-SHA256: 6a08e2d20ecab2f0cf94e31999137751693065466ee9417f984749460b5cc7ae
+Size: 47440
+MD5sum: 24888e21b41d6222464287541f02a7d7
+SHA1: 74cb8c2eb8e182ab7a0501c770a02a6451563fc3
+SHA256: c819e6e64a7f95799ab010af5e692d8306c92227c7ea4a395e8a7d5ffc400dd8
 Section: Tweaks
 Description: 修复iPhone 12全机型的Cydia启动透明BUG
 Author: Reyno
