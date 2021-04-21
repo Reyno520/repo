@@ -4,15 +4,15 @@ Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=12.0-14.5)
 Filename: ./debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
-Size: 16192
-MD5sum: 3be37a6668654e4901d0d908c0283afb
-SHA1: 59540216c4abfef34ae6be349133aba4cd708f56
-SHA256: dbc1638ea938b2039a281ef631632fb32fee464f007c9d573fa4e06424ead07f
+Size: 15816
+MD5sum: 510dce978047b4f1f0ef559098d33da3
+SHA1: d9b64fb8f888e7a514b98dca53bd5250d0dcc2ca
+SHA256: d618c51e61c2c6b79974465cc56ee65f93d0840c4de78b4a56aa113c93cf4566
 Section: 主题
 Description: 一款非常漂亮的立体感内框玻璃蒙版！
 Author: Reyno
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.ae-dsr
-Name: ae-dsr
+Name: AE DSR
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
 
 Package: com.reyno.cydiaplus
@@ -72,15 +72,15 @@ Architecture: iphoneos-arm
 Maintainer: Baw Appie
 Depends: firmware (>= 11.0)
 Filename: ./debs/com.reyno.libapappview_1.0_iphoneos-arm.deb
-Size: 22680
-MD5sum: aba96775ffba6c07e8e182c062f510dd
-SHA1: c3dc2d6820afc4bf25502ff1292280ec994248bb
-SHA256: 6963c666495d8848b0d3e0f91a708bde3ab768bf81ca38113e9dde36da7bd411
+Size: 22572
+MD5sum: 8443e2a6b8c161e12a2cabab73ea1874
+SHA1: 6cc324a51713cdc92bfd595a9242d8217617150d
+SHA256: dbce7054e42fca8328591a91743cf709caa37b1ef509287adadb8e9d29e24adc
 Section: 依赖
 Description: 安装PullOver Pro插件需装依赖！
 Author: Baw Appie
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.libapappview
-Name: libapappview
+Name: libAPAppView
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.libapappview/libapappview.json
 
 Package: com.reyno.lockscreen-wake
@@ -141,14 +141,14 @@ Architecture: iphoneos-arm
 Maintainer: IArrays
 Depends: firmware (>=13.0-14.5)
 Filename: ./debs/com.reyno.simplus_1.14-beta2_iphoneos-arm.deb
-Size: 866696
-MD5sum: 413f613f8984bb9ae4a478d3195a79c5
-SHA1: 5eeeb78b6f5f1afad1fcb3ce8ca504b12f037171
-SHA256: 57dc9db4db31fad50fcdef2d82d5bb4cd1e9409e760bec3360a481ae34cce1cb
+Size: 866812
+MD5sum: 78155f6efb5a09b6cb6d4289373319c5
+SHA1: a594ffc192a513674208230df80447a38536205c
+SHA256: a4a244aca91b6dd72d775d82889852f1aa50d226b4643f443b2f9e9e9228e427
 Section: Tweaks
-Description: 中文破解版-拨打电话和发送短信时,弹出双卡选项。
+Description: 拨打电话和发送短信时，弹出双卡选项，内置了芯片图标、中文破解版
 Author: IArrays
-Depiction: ttps://apt.reyno.top/describe/?p=com.reyno.simplus
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.simplus
 Name: eSim+
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.simplus/simplus.json
 
