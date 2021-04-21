@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "tabs": [{
             "class": "DepictionStackView",
-            "tabname": "Details",
+            "tabname": "截图",
             "views": [{
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
@@ -10,11 +10,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://apt.reyno.top/describe/com.reyno.ae-dsr/screenshots/PN1.jpg"
+                            "url": "https://apt.reyno.top/describe/com.reyno.disablen-paste-notice/screenshots/PN1.jpg"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://apt.reyno.top/describe/com.reyno.ae-dsr/screenshots/PN2.jpg"
+                            "url": "https://apt.reyno.top/describe/com.reyno.disablen-paste-notice/screenshots/PN2.jpg"
                         }
                     ]
                 },

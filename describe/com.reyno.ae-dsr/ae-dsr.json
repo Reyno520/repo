@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "tabs": [{
             "class": "DepictionStackView",
-            "tabname": "Details",
+            "tabname": "截图",
             "views": [{
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
