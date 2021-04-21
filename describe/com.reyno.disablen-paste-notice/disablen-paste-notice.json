@@ -10,7 +10,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://apt.reyno.top/describe/com.reyno.ae-dsr/screenshots/AE.jpg"
+                            "url": "https://apt.reyno.top/describe/com.reyno.ae-dsr/screenshots/PN1.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://apt.reyno.top/describe/com.reyno.ae-dsr/screenshots/PN2.jpg"
                         }
                     ]
                 },
@@ -25,7 +29,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "立体感加强的内框玻璃蒙版"
+                    "markdown": "禁用iOS14的粘贴提示和快捷指令自动化执行后的通知栏，这是Netskao的两个插件，为了方便整合到一起，想必都用到！"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -71,7 +75,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 12 & 14"
+                    "text": "iOS14"
                 },
                 {
                     "class": "DepictionTableTextView",

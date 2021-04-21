@@ -10,7 +10,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://apt.reyno.top/describe/com.reyno.ae-dsr/screenshots/AE.jpg"
+                            "url": "https://apt.reyno.top/describe/com.reyno.ae-dsr/screenshots/CY1.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://apt.reyno.top/describe/com.reyno.ae-dsr/screenshots/CY2.jpg"
                         }
                     ]
                 },
@@ -25,7 +29,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "立体感加强的内框玻璃蒙版"
+                    "markdown": "修复iPhone12全机型的Cydia启动透明BUG."
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -55,7 +59,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2021-04-20",
+                    "text": "2021-04-21",
                     "title": "Last Time Updated"
                 },
                 {
@@ -76,7 +80,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Devices",
-                    "text": "适用所有设备"
+                    "text": "仅支持iPhone12系列"
                 },
                 {
                     "class": "DepictionTableTextView",

@@ -15,22 +15,6 @@ Author: HASHBANG Productions
 Depiction: https://apt.reyno.top/description.html?id=com.Reyno.NewTerm2
 Name: Newterm 2
 
-Package: com.reyno.Fixcydia
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Reyno
-Depends: firmware (>=14.0-14.5)|mobilesubstrate
-Filename: ./debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
-Size: 47060
-MD5sum: 69895a8a7771735bf445408aefebe1d5
-SHA1: 4e34b3c72c7641bb785736a350bcf03fac125680
-SHA256: d128589e802c55351b379812cf754e5e8e212a1d5dc96255e0116984a4a480e8
-Section: Tweaks
-Description: 修复iPhone 12全机型的Cydia启动透明BUG
-Author: Reyno
-Depiction: https://reyno520.github.io/repo/description.html?id=com.reyno.Fixcydia
-Name: Fix Cydia startup transparency
-
 Package: com.reyno.PullOverPro
 Version: 2.1.1
 Architecture: iphoneos-arm
@@ -62,6 +46,40 @@ Description: 一款非常漂亮的立体感内框玻璃蒙版！
 Author: Reyno
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.ae-dsr
 Name: ae-dsr
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
+
+Package: com.reyno.disablen-paste-notice
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Netskao
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.reyno.disablen-paste-notice_1.1-3_iphoneos-arm.deb
+Size: 7656
+MD5sum: f58c3f740ac2b915e9a0939b4b3dc2a7
+SHA1: 2fbd2be25934a49508c061c9520dea231392446f
+SHA256: ccbec89cae2377a36ee65b189e55ffacb7f18ec24b2296a3152de3e377cdee28
+Section: Tweaks
+Description: 禁用iOS14的粘贴提示和快捷指令自动化执行后的通知栏，这是Netskao的两个插件，为了方便整合到一起，想必都用到！
+Author: Netskao
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.disablen-paste-notice
+Name: Disable PasteTips an Notification
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
+
+Package: com.reyno.fixcydia
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: firmware (>=14.0-14.5),mobilesubstrate
+Filename: ./debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
+Size: 47088
+MD5sum: f9b85c00550a781946aa82558405701c
+SHA1: 47b9f0f8d38532d43398120cf72739b4026ca335
+SHA256: f6003d17dcbc639fc02d7657f24ff59e37abef3eef24a8783e04e3337876a8e7
+Section: Tweaks
+Description: 修复iPhone 12全机型的Cydia启动透明BUG
+Author: Reyno
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.fixcydia
+Name: Fix Cydia startup transparency
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
 
 Package: com.reyno.libapappview
