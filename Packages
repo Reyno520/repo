@@ -15,23 +15,6 @@ Author: HASHBANG Productions
 Depiction: https://apt.reyno.top/description.html?id=com.Reyno.NewTerm2
 Name: Newterm 2
 
-Package: com.Reyno.ae-dsr
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Reyno
-Depends: firmware (>=12.0-14.5)
-Filename: ./debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
-Size: 16200
-MD5sum: 745594faef4253e7f64df6e07ef99dda
-SHA1: 0a98d0c8ff19dec25fcbe3f35bd9861269918f2c
-SHA256: 30e8c3bbd8f0776f897f0b279b1554cd4372bca170e4419f5fdc1a7ae2ad2ec5
-Section: 主题
-Description: 一款非常漂亮的立体感内框玻璃蒙版！
-Author: Reyno
-Depiction: https://apt.reyno.top/depictions/?p=com.Reyno.ae-dsr
-Name: ae-dsr
-Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
-
 Package: com.reyno.Fixcydia
 Version: 1.0
 Architecture: iphoneos-arm
@@ -63,6 +46,23 @@ Description: 侧边快捷切换应用程序、双重的便捷操作、可自由�
 Author: c1d3r
 Depiction: https://apt.reyno.top/description.html?id=com.reyno.PullOverPro
 Name: PullOver Pro
+
+Package: com.reyno.ae-dsr
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: firmware (>=12.0-14.5)
+Filename: ./debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
+Size: 16192
+MD5sum: 3be37a6668654e4901d0d908c0283afb
+SHA1: 59540216c4abfef34ae6be349133aba4cd708f56
+SHA256: dbc1638ea938b2039a281ef631632fb32fee464f007c9d573fa4e06424ead07f
+Section: 主题
+Description: 一款非常漂亮的立体感内框玻璃蒙版！
+Author: Reyno
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.ae-dsr
+Name: ae-dsr
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
 
 Package: com.reyno.libapappview
 Version: 1.0
