@@ -15,6 +15,23 @@ Depiction: https://apt.reyno.top/describe/?p=com.reyno.ae-dsr
 Name: ae-dsr
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
 
+Package: com.reyno.cydiaplus
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: t0mi
+Depends: firmware (>=12.0-14.5)
+Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.cydiaplus_1.2_iphoneos-arm.deb
+Size: 50972
+MD5sum: 2bcbda7644ef0b6c4b7d9919a589d96b
+SHA1: 62a2c7f62b364657d8fd2c782f72f6c073f077c0
+SHA256: 20c5dcf8ee8ef0e3adcc912dac813215e0eb12c33683f6e9780194a5ce9cc635
+Section: Tweaks
+Description: 加快Cydia源的刷新速度！
+Author: t0mi
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.cydiaplus
+Name: CydiaPlus
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.cydiaplus/cydiaplus.json
+
 Package: com.reyno.disablen-paste-notice
 Version: 1.1-3
 Architecture: iphoneos-arm
