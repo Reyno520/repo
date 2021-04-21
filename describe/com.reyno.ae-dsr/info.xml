@@ -30,7 +30,7 @@
 	<links>
                 <link>
 			<name>QQ群</name>
-			<url>https://qm.qq.com/cgi-bin/qm/qr?k=9hxPw82vb80NJVND0Wp-vBlQ7b3vSjDE&jump_from=webapi/</url>
+			<url>https://qm.qq.com/cgi-bin/qm/qr?k=9hxPw82vb80NJVND0Wp-vBlQ7b3vSjDE&amp;jump_from=webapi/</url>
 			<iconclass>fa fa-QQ群</iconclass>
 		</link>
 		<link>
