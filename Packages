@@ -124,10 +124,10 @@ Architecture: iphoneos-arm
 Maintainer: IArrays
 Depends: firmware (>=13.0-14.5)
 Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.simplus_1.14-beta2_iphoneos-arm.deb
-Size: 867116
-MD5sum: 76f647e2b8aa79d00c6e736771a5e82a
-SHA1: 7aa830c451e1b0f4b25e205f69e89602be3ba5cc
-SHA256: f102c036c21fa6a89dd824c5ad63c7ac6d336194540ccb7a25f796ddd4b2c11b
+Size: 866696
+MD5sum: 413f613f8984bb9ae4a478d3195a79c5
+SHA1: 5eeeb78b6f5f1afad1fcb3ce8ca504b12f037171
+SHA256: 57dc9db4db31fad50fcdef2d82d5bb4cd1e9409e760bec3360a481ae34cce1cb
 Section: Tweaks
 Description: 中文破解版-拨打电话和发送短信时,弹出双卡选项。
 Author: IArrays
