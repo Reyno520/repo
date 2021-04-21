@@ -54,16 +54,16 @@ Architecture: iphoneos-arm
 Maintainer: Netskao
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.reyno.disablen-paste-notice_1.1-3_iphoneos-arm.deb
-Size: 7656
-MD5sum: f58c3f740ac2b915e9a0939b4b3dc2a7
-SHA1: 2fbd2be25934a49508c061c9520dea231392446f
-SHA256: ccbec89cae2377a36ee65b189e55ffacb7f18ec24b2296a3152de3e377cdee28
+Size: 8196
+MD5sum: ecd12be284971d270f21dbccbaa8d7bc
+SHA1: f30181055d3351bd873343ae829dddce8d98915c
+SHA256: b1f1e16100f0627693320b9dc2feb044fc30675d4a6d795f419f87ae3a4c4b9b
 Section: Tweaks
 Description: 禁用iOS14的粘贴提示和快捷指令自动化执行后的通知栏，这是Netskao的两个插件，为了方便整合到一起，想必都用到！
 Author: Netskao
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.disablen-paste-notice
 Name: Disable PasteTips an Notification
-Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.disablen-paste-notice/disablen-paste-notice.json
 
 Package: com.reyno.fixcydia
 Version: 1.0
@@ -71,16 +71,16 @@ Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=14.0-14.5),mobilesubstrate
 Filename: ./debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
-Size: 47088
-MD5sum: f9b85c00550a781946aa82558405701c
-SHA1: 47b9f0f8d38532d43398120cf72739b4026ca335
-SHA256: f6003d17dcbc639fc02d7657f24ff59e37abef3eef24a8783e04e3337876a8e7
+Size: 48052
+MD5sum: dabca036f1454e5e08bc351f8091577b
+SHA1: 6a1ad93a35462aa0b42479bdf2a9034618c56788
+SHA256: 6a08e2d20ecab2f0cf94e31999137751693065466ee9417f984749460b5cc7ae
 Section: Tweaks
 Description: 修复iPhone 12全机型的Cydia启动透明BUG
 Author: Reyno
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.fixcydia
 Name: Fix Cydia startup transparency
-Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.fixcydia/fixcydia.json
 
 Package: com.reyno.libapappview
 Version: 1.0
