@@ -143,10 +143,10 @@ Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Conflicts: com.cpdigitaldarkroom.placeholder, com.creaturecoding.shuffle
 Replaces: com.cpdigitaldarkroom.placeholder
 Filename: ./debs/com.reyno.shuffle_1.3.4_iphoneos-arm.deb
-Size: 294468
-MD5sum: 085bed129dd190d5dbfd9091da0d1b10
-SHA1: fa701842ebf7e4cd702b4ff0c12825e7122f200f
-SHA256: d3b73e18589ca997330339912161ddc5a08895d87a338e8d69e6756f006b3c05
+Size: 294356
+MD5sum: f4d74d4f6e0764c56e15674e8636d969
+SHA1: 87da1a210c83f53104d69394c15dc8e96c83acf8
+SHA256: d0ec5ca0cf4e5b1839a2dd138686317a46336bf76a163fcb0804c5fed76cb19b
 Section: Tweaks
 Description: 中文版-设置界面归类整理、可调整圆角、可在顶部添加喜欢的图片！
 Author: CreatureSurvive <support@creaturecoding.com>
