@@ -135,6 +135,25 @@ Depiction: https://apt.reyno.top/describe/?p=com.reyno.pulloverpro
 Name: PullOver Pro
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.pulloverpro/pulloverpro.json
 
+Package: com.reyno.shuffle
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Conflicts: com.cpdigitaldarkroom.placeholder, com.creaturecoding.shuffle
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.reyno.shuffle_1.3.4_iphoneos-arm.deb
+Size: 294468
+MD5sum: 085bed129dd190d5dbfd9091da0d1b10
+SHA1: fa701842ebf7e4cd702b4ff0c12825e7122f200f
+SHA256: d3b73e18589ca997330339912161ddc5a08895d87a338e8d69e6756f006b3c05
+Section: Tweaks
+Description: 中文版-设置界面归类整理、可调整圆角、可在顶部添加喜欢的图片！
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.shuffle
+Name: ShuffLe
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.shuffle/shuffle.json
+
 Package: com.reyno.simplus
 Version: 1.14-beta2
 Architecture: iphoneos-arm
