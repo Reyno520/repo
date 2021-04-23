@@ -1,6 +1,6 @@
 <package>
-	<id>com.reyno.ae-dsr</id>
-	<name>AE-DSR</name>
+	<id>com.reyno.nosourceerrors</id>
+	<name>No SourceErrors</name>
     <version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -9,9 +9,9 @@
 		</firmware>
 	</compatibility>
     <dependencies></dependencies>
-	<shortDescription>给图标穿上漂亮的外衣</shortDescription>
+	<shortDescription>去除Cydia商店刷新源出现的黄字</shortDescription>
 	<descriptionlist>
-		<description>立体感加强的内框玻璃蒙版.</description>
+		<description>去除Cydia黄字,类似的Apt,Failed无法获取源错误,比如Taurine越狱安装Cydia商店刷新源就会出现！</description>
 <!--		<description><![CDATA[
 		You can also have<br/>
 		a multi-line item.
@@ -21,11 +21,11 @@
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>NS.jpg</image>
+			<image> </image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>支持iOS 14.x</change>
+		<change>支持iOS 12.x-14.x</change>
 	</changelog>
 	<links>
                 <link>
