@@ -10,7 +10,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://apt.reyno.top/describe/com.reyno.nosourceerrors/screenshots/NS.jpg"
+                            "url": "https://apt.reyno.top/describe/com.reyno.killxpro/screenshots/KL1.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://apt.reyno.top/describe/com.reyno.killxpro/screenshots/KL2.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://apt.reyno.top/describe/com.reyno.killxpro/screenshots/KL3.jpg"
                         }
                     ]
                 },
@@ -25,7 +33,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "去除Cydia黄字,类似的Apt,Failed无法获取源错误,比如Taurine越狱安装Cydia商店刷新源就会出现！"
+                    "markdown": "(中文破解版)一键或下拉全部清除后台,可设置白名单,长按上锁或解锁,动画如此美丽！"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -37,7 +45,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "兼容iOS 12.x-14.x",
+                    "markdown": "兼容iOS 14.x",
                     "useSpacing": true
                 },
                 {
@@ -50,17 +58,17 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0",
+                    "text": "3.0",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2021-04-21",
+                    "text": "2021-04-22",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2021-04-21",
+                    "text": "2021-04-18",
                     "title": "Released"
                 },
                 {

@@ -66,6 +66,23 @@ Depiction: https://apt.reyno.top/describe/?p=com.reyno.fixcydia
 Name: Fix Cydia startup transparency
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.fixcydia/fixcydia.json
 
+Package: com.reyno.killxpro
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.reyno.killxpro_3.0_iphoneos-arm.deb
+Size: 197900
+MD5sum: 0896ec6ad25b1d27bc205096c2af00c6
+SHA1: 65115ebab10310a9a1552bb82dbff4ae1162c570
+SHA256: 67c01fd5413f6a69e45fe651d66c590513474c3b3ceaf4ae99e59bc2dc2044ba
+Section: Tweaks
+Description: (中文破解版)一键或下拉全部清除后台,可设置白名单,长按上锁或解锁,动画如此美丽！
+Author: cemck
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.killxpro
+Name: No SourceErrors
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.killxpro/killxpro.json
+
 Package: com.reyno.libapappview
 Version: 1.0
 Architecture: iphoneos-arm
