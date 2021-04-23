@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=12.0-14.5)
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
+Filename: ./debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
 Size: 15816
 MD5sum: 510dce978047b4f1f0ef559098d33da3
 SHA1: d9b64fb8f888e7a514b98dca53bd5250d0dcc2ca
@@ -20,7 +20,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: t0mi
 Depends: firmware (>=12.0-14.5)
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.cydiaplus_1.2_iphoneos-arm.deb
+Filename: ./debs/com.reyno.cydiaplus_1.2_iphoneos-arm.deb
 Size: 50972
 MD5sum: 2bcbda7644ef0b6c4b7d9919a589d96b
 SHA1: 62a2c7f62b364657d8fd2c782f72f6c073f077c0
@@ -37,7 +37,7 @@ Version: 1.1-3
 Architecture: iphoneos-arm
 Maintainer: Netskao
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.disablen-paste-notice_1.1-3_iphoneos-arm.deb
+Filename: ./debs/com.reyno.disablen-paste-notice_1.1-3_iphoneos-arm.deb
 Size: 7656
 MD5sum: 519ec6f9aec463f1121073779ee9eb51
 SHA1: af554b1fcc60408f5deb24974c7c8f23387de836
@@ -54,7 +54,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=14.0-14.5),mobilesubstrate
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
+Filename: ./debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
 Size: 47440
 MD5sum: 24888e21b41d6222464287541f02a7d7
 SHA1: 74cb8c2eb8e182ab7a0501c770a02a6451563fc3
@@ -71,16 +71,16 @@ Version: 3.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, applist
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.killxpro_3.0_iphoneos-arm.deb
-Size: 197900
-MD5sum: 0896ec6ad25b1d27bc205096c2af00c6
-SHA1: 65115ebab10310a9a1552bb82dbff4ae1162c570
-SHA256: 67c01fd5413f6a69e45fe651d66c590513474c3b3ceaf4ae99e59bc2dc2044ba
+Filename: ./debs/com.reyno.killxpro_3.0_iphoneos-arm.deb
+Size: 197796
+MD5sum: 2a8fbd87a5a9aece13c8c9eae28a7ebe
+SHA1: 22e118076373ce1749f07582ed495ec81cdd8689
+SHA256: cdfc0717ba862fb60e27614b8adb1e7b925e4baeab6721fdc00bd6692b9e502d
 Section: Tweaks
 Description: (中文破解版)一键或下拉全部清除后台,可设置白名单,长按上锁或解锁,动画如此美丽！
 Author: cemck
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.killxpro
-Name: No SourceErrors
+Name: KillX Pro
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.killxpro/killxpro.json
 
 Package: com.reyno.libapappview
@@ -88,7 +88,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Baw Appie
 Depends: firmware (>= 11.0)
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.libapappview_1.0_iphoneos-arm.deb
+Filename: ./debs/com.reyno.libapappview_1.0_iphoneos-arm.deb
 Size: 22572
 MD5sum: 8443e2a6b8c161e12a2cabab73ea1874
 SHA1: 6cc324a51713cdc92bfd595a9242d8217617150d
@@ -105,7 +105,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Nets Cydiabc Spark
 Depends: firmware (>= 11.0),mobilesubstrate
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.lockscreen-wake_1.0_iphoneos-arm.deb
+Filename: ./debs/com.reyno.lockscreen-wake_1.0_iphoneos-arm.deb
 Size: 15652
 MD5sum: 209ae9ad783e7821aa90c88078240f25
 SHA1: e04048d3b4f13ae846d7ee79444603d4716cc7c2
@@ -123,7 +123,7 @@ Architecture: iphoneos-arm
 Maintainer: HASHBANG Productions
 Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
 Conflicts: ws.hbang.newterm, com.lint.ntarrows
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.newterm2_2.5_iphoneos-arm.deb
+Filename: ./debs/com.reyno.newterm2_2.5_iphoneos-arm.deb
 Size: 2018444
 MD5sum: 3b36a008143b9bf1749c0ac75d5d0492
 SHA1: f40b80d9e2fb709f0874256a5fa6b4e06819627e
@@ -140,7 +140,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: mobilesubstrate
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.nosourceerrors_1.0_iphoneos-arm.deb
+Filename: ./debs/com.reyno.nosourceerrors_1.0_iphoneos-arm.deb
 Size: 3412
 MD5sum: 79bbcceec556fa54e2187cce7c7cc79e
 SHA1: 0fa44b1e0bad8c18b45d22fb60e9470bf4c125f7
@@ -157,7 +157,7 @@ Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: c1d3r
 Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.pulloverpro_2.1.1_iphoneos-arm.deb
+Filename: ./debs/com.reyno.pulloverpro_2.1.1_iphoneos-arm.deb
 Size: 744648
 MD5sum: a235a719396dbaecc3e4da4c1406b5c0
 SHA1: baaa1db4c276679de73ed60675bd8e1d36bda5bb
@@ -176,7 +176,7 @@ Maintainer: Reyno
 Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Conflicts: com.cpdigitaldarkroom.placeholder, com.creaturecoding.shuffle
 Replaces: com.cpdigitaldarkroom.placeholder
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.shuffle_1.3.4_iphoneos-arm.deb
+Filename: ./debs/com.reyno.shuffle_1.3.4_iphoneos-arm.deb
 Size: 294356
 MD5sum: f4d74d4f6e0764c56e15674e8636d969
 SHA1: 87da1a210c83f53104d69394c15dc8e96c83acf8
@@ -193,7 +193,7 @@ Version: 1.14-beta2
 Architecture: iphoneos-arm
 Maintainer: IArrays
 Depends: firmware (>=13.0-14.5)
-Filename: /Users/reyno/Documents/GitHub/repo/debs/com.reyno.simplus_1.14-beta2_iphoneos-arm.deb
+Filename: ./debs/com.reyno.simplus_1.14-beta2_iphoneos-arm.deb
 Size: 866812
 MD5sum: 78155f6efb5a09b6cb6d4289373319c5
 SHA1: a594ffc192a513674208230df80447a38536205c
