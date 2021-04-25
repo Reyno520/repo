@@ -1,0 +1,57 @@
+<package>
+	<id>com.reyno.rescale2</id>
+	<name>Re:Scale 2</name>
+    <version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+			<otherVersions>unconformed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<shortDescription>修改分辨率</shortDescription>
+	<descriptionlist>
+		<description>支持iPhone 4s-iphone12 Pro Max修改分辨率的神器，不管是使用iCleaner Pro清理或是重新越狱，都不会重置原始分辨率！</description>
+<!--		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+	</description> -->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>RL1.jpg</image>
+		</screenshot>
+        <screenshot>
+            <description></description>
+            <image>RL2.jpg</image>
+        </screenshot>
+	</screenshots>
+	<changelog>
+		<change>支持iOS 8.x-14.x</change>
+	</changelog>
+	<links>
+                <link>
+			<name>QQ群</name>
+			<url>https://qm.qq.com/cgi-bin/qm/qr?k=9hxPw82vb80NJVND0Wp-vBlQ7b3vSjDE&amp;jump_from=webapi/</url>
+			<iconclass>fa fa-QQ群</iconclass>
+		</link>
+		<link>
+			<name>微博</name>
+			<url>https://weibo.com/u/2691971604</url>
+			<iconclass>fa fa-微博</iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://weibo.com/u/2691971604</url>
+			<iconclass>fa fa-Twitter</iconclass>
+		</link>
+		<link>
+			<name>请我喝咖啡</name>
+			<url>https://apt.reyno.top/images/weixin.png</url>
+			<iconclass>fa fa-请我喝咖啡</iconclass>
+		</link>
+	</links>
+</package>
+
