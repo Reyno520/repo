@@ -187,15 +187,32 @@ Name: PullOver Pro
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.pulloverpro/pulloverpro.json
 
 Package: com.reyno.rescale2
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.reyno.rescale2_1.0.2_iphoneos-arm.deb
+Size: 97656
+MD5sum: 8ba3b8a53ce8cf6b72bf01047238b558
+SHA1: 21c904211a3800d6aea8aa41b0340b79ef5a452e
+SHA256: cf511ba71e3c7373b00e63b83ced55afbc138a6fdfef165a9b93144df8b77747
+Section: Tweaks
+Description: 支持iPhone 4s-iphone12 Pro Max修改分辨率的神器，不管是使用iCleaner Pro清理或是重新越狱，都不会重置原始分辨率！
+Author: Sniper_GER
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.rescale2
+Name: Re:Scale 2
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.rescale2/rescale2.json
+
+Package: com.reyno.rescale2
 Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
 Filename: ./debs/com.reyno.rescale2_1.0.4_iphoneos-arm.deb
-Size: 104344
-MD5sum: e3a5c3202b91ddc5da3436fab76110b2
-SHA1: c3f4a1ecfbeda9653723850c25872ccefa957fca
-SHA256: e49fe03ce576a004fe7d550ec8b04fac4744b68382f4ad23b7696bd8181c451d
+Size: 104364
+MD5sum: c7c9af3fa50ec00f42dba6b7b3ec842a
+SHA1: 373adb230335b0e63bf6b9c95d3906657779aac3
+SHA256: d75970b93f14f6f8655678993e18ccef81d861dbf12e4d5fde979926d614f65d
 Section: Tweaks
 Description: 支持iPhone 4s-iphone12 Pro Max修改分辨率的神器，不管是使用iCleaner Pro清理或是重新越狱，都不会重置原始分辨率！
 Author: Sniper_GER
