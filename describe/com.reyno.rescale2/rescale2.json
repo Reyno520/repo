@@ -41,7 +41,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "兼容iOS 14.x",
+                    "markdown": "兼容iOS 9-14.x",
                     "useSpacing": true
                 },
                 {
@@ -54,12 +54,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0.2",
+                    "text": "1.0.4",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2021-04-25",
+                    "text": "2021-05-1",
                     "title": "Last Time Updated"
                 },
                 {

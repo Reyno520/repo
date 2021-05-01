@@ -3,6 +3,23 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=12.0-14.5)
+Filename: ./repo/debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
+Size: 15816
+MD5sum: 510dce978047b4f1f0ef559098d33da3
+SHA1: d9b64fb8f888e7a514b98dca53bd5250d0dcc2ca
+SHA256: d618c51e61c2c6b79974465cc56ee65f93d0840c4de78b4a56aa113c93cf4566
+Section: 主题
+Description: 一款非常漂亮的立体感内框玻璃蒙版！
+Author: Reyno
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.ae-dsr
+Name: AE DSR
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
+
+Package: com.reyno.ae-dsr
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: firmware (>=12.0-14.5)
 Filename: ./debs/com.reyno.ae-dsr_1.0_iphoneos-arm.deb
 Size: 15816
 MD5sum: 510dce978047b4f1f0ef559098d33da3
@@ -14,6 +31,23 @@ Author: Reyno
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.ae-dsr
 Name: AE DSR
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.ae-dsr/ae-dsr.json
+
+Package: com.reyno.bringbackthetexture
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./repo/debs/com.reyno.bringbackthetexture_1.0.1_iphoneos-arm.deb
+Size: 37024
+MD5sum: 486df9439d2f9988ca38cac22039c08b
+SHA1: 1d0711e36ef79d05376a4cac7d810f7ca7c117ad
+SHA256: 69901179d29b8d216610c259015ff8b1ab2dfe9e16c05e8ad44c40fcab3bde12
+Section: Tweaks
+Description: 备忘录回归之前的纹理背景,让曾经的纸张质感陪你一起做备忘！
+Author: ArtikusHG
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.bringbackthetexture
+Name: BringBackTheTexture
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.bringbackthetexture/bringbackthetexture.json
 
 Package: com.reyno.bringbackthetexture
 Version: 1.0.1
@@ -37,6 +71,23 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: t0mi
 Depends: firmware (>=12.0-14.5)
+Filename: ./repo/debs/com.reyno.cydiaplus_1.2_iphoneos-arm.deb
+Size: 50972
+MD5sum: 2bcbda7644ef0b6c4b7d9919a589d96b
+SHA1: 62a2c7f62b364657d8fd2c782f72f6c073f077c0
+SHA256: 20c5dcf8ee8ef0e3adcc912dac813215e0eb12c33683f6e9780194a5ce9cc635
+Section: Tweaks
+Description: 加快Cydia源的刷新速度！
+Author: t0mi
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.cydiaplus
+Name: CydiaPlus
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.cydiaplus/cydiaplus.json
+
+Package: com.reyno.cydiaplus
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: t0mi
+Depends: firmware (>=12.0-14.5)
 Filename: ./debs/com.reyno.cydiaplus_1.2_iphoneos-arm.deb
 Size: 50972
 MD5sum: 2bcbda7644ef0b6c4b7d9919a589d96b
@@ -48,6 +99,23 @@ Author: t0mi
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.cydiaplus
 Name: CydiaPlus
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.cydiaplus/cydiaplus.json
+
+Package: com.reyno.disablen-paste-notice
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Netskao
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./repo/debs/com.reyno.disablen-paste-notice_1.1-3_iphoneos-arm.deb
+Size: 7656
+MD5sum: 519ec6f9aec463f1121073779ee9eb51
+SHA1: af554b1fcc60408f5deb24974c7c8f23387de836
+SHA256: ca99aeee5a02e5819d78f74e3e6490578ed4c8cf023e63dbc55a877d0df64e00
+Section: Tweaks
+Description: 禁用iOS14的粘贴提示和快捷指令自动化执行后的通知栏，这是Netskao的两个插件，为了方便整合到一起，想必都用到！
+Author: Netskao
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.disablen-paste-notice
+Name: Disable PasteTips an Notification
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.disablen-paste-notice/disablen-paste-notice.json
 
 Package: com.reyno.disablen-paste-notice
 Version: 1.1-3
@@ -71,6 +139,23 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: firmware (>=14.0-14.5),mobilesubstrate
+Filename: ./repo/debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
+Size: 47440
+MD5sum: 24888e21b41d6222464287541f02a7d7
+SHA1: 74cb8c2eb8e182ab7a0501c770a02a6451563fc3
+SHA256: c819e6e64a7f95799ab010af5e692d8306c92227c7ea4a395e8a7d5ffc400dd8
+Section: Tweaks
+Description: 修复iPhone 12全机型的Cydia启动透明BUG
+Author: Reyno
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.fixcydia
+Name: Fix Cydia startup transparency
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.fixcydia/fixcydia.json
+
+Package: com.reyno.fixcydia
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: firmware (>=14.0-14.5),mobilesubstrate
 Filename: ./debs/com.reyno.fixcydia_1.0_iphoneos-arm.deb
 Size: 47440
 MD5sum: 24888e21b41d6222464287541f02a7d7
@@ -82,6 +167,23 @@ Author: Reyno
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.fixcydia
 Name: Fix Cydia startup transparency
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.fixcydia/fixcydia.json
+
+Package: com.reyno.killxpro
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, applist
+Filename: ./repo/debs/com.reyno.killxpro_3.0_iphoneos-arm.deb
+Size: 197796
+MD5sum: 2a8fbd87a5a9aece13c8c9eae28a7ebe
+SHA1: 22e118076373ce1749f07582ed495ec81cdd8689
+SHA256: cdfc0717ba862fb60e27614b8adb1e7b925e4baeab6721fdc00bd6692b9e502d
+Section: Tweaks
+Description: (中文破解版)一键或下拉全部清除后台,可设置白名单,长按上锁或解锁,动画如此美丽！
+Author: cemck
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.killxpro
+Name: KillX Pro
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.killxpro/killxpro.json
 
 Package: com.reyno.killxpro
 Version: 3.0
@@ -105,6 +207,23 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Baw Appie
 Depends: firmware (>= 11.0)
+Filename: ./repo/debs/com.reyno.libapappview_1.0_iphoneos-arm.deb
+Size: 22572
+MD5sum: 8443e2a6b8c161e12a2cabab73ea1874
+SHA1: 6cc324a51713cdc92bfd595a9242d8217617150d
+SHA256: dbce7054e42fca8328591a91743cf709caa37b1ef509287adadb8e9d29e24adc
+Section: 依赖
+Description: 安装PullOver Pro插件需装依赖！
+Author: Baw Appie
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.libapappview
+Name: libAPAppView
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.libapappview/libapappview.json
+
+Package: com.reyno.libapappview
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Baw Appie
+Depends: firmware (>= 11.0)
 Filename: ./debs/com.reyno.libapappview_1.0_iphoneos-arm.deb
 Size: 22572
 MD5sum: 8443e2a6b8c161e12a2cabab73ea1874
@@ -116,6 +235,23 @@ Author: Baw Appie
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.libapappview
 Name: libAPAppView
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.libapappview/libapappview.json
+
+Package: com.reyno.lockscreen-wake
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nets Cydiabc Spark
+Depends: firmware (>= 11.0),mobilesubstrate
+Filename: ./repo/debs/com.reyno.lockscreen-wake_1.0_iphoneos-arm.deb
+Size: 15652
+MD5sum: 209ae9ad783e7821aa90c88078240f25
+SHA1: e04048d3b4f13ae846d7ee79444603d4716cc7c2
+SHA256: 2a1a786f28033fefc492c67f49393b9d6a7989a49bc1b3e37e83aebea7ad2c9c
+Section: Tweaks
+Description: 双击解锁和唤醒、单击小圆点锁屏、通知界面和亮屏界面双击息屏！
+Author: Netskao Cydiabc Spark
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.lockscreen-wake
+Name: LockScreen and wake
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.lockscreen-wake/lockscreen-wake.json
 
 Package: com.reyno.lockscreen-wake
 Version: 1.0
@@ -140,6 +276,24 @@ Architecture: iphoneos-arm
 Maintainer: HASHBANG Productions
 Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
 Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./repo/debs/com.reyno.newterm2_2.5_iphoneos-arm.deb
+Size: 2018444
+MD5sum: 3b36a008143b9bf1749c0ac75d5d0492
+SHA1: f40b80d9e2fb709f0874256a5fa6b4e06819627e
+SHA256: 4a748a1d47b338844ccc86c96df34f343c9d3694994bc0c98f8d2c21c5a5ac48
+Section: Tweaks
+Description: 在越狱设备上运行的命令终端：可用于修改root密码、安装deb、查CPU等
+Author: HASHBANG Productions
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.newterm2
+Name: Newterm 2
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.newterm2/newterm2.json
+
+Package: com.reyno.newterm2
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
 Filename: ./debs/com.reyno.newterm2_2.5_iphoneos-arm.deb
 Size: 2018444
 MD5sum: 3b36a008143b9bf1749c0ac75d5d0492
@@ -151,6 +305,23 @@ Author: HASHBANG Productions
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.newterm2
 Name: Newterm 2
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.newterm2/newterm2.json
+
+Package: com.reyno.nosourceerrors
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: mobilesubstrate
+Filename: ./repo/debs/com.reyno.nosourceerrors_1.0_iphoneos-arm.deb
+Size: 3412
+MD5sum: 79bbcceec556fa54e2187cce7c7cc79e
+SHA1: 0fa44b1e0bad8c18b45d22fb60e9470bf4c125f7
+SHA256: 4aa612e31e461e413bf6c05125df9ed7fe0aee3cfc4cd367c32b0ceb02a421dc
+Section: Tweaks
+Description: 移除Cydia黄字,类似的Apt,Failed无法获取源错误,比如Taurine越狱安装Cydia商店刷新源就会出现！
+Author: Netskao
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.nosourceerrors
+Name: No SourceErrors
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.nosourceerrors/nosourceerrors.json
 
 Package: com.reyno.nosourceerrors
 Version: 1.0
@@ -174,6 +345,23 @@ Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: c1d3r
 Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: ./repo/debs/com.reyno.pulloverpro_2.1.1_iphoneos-arm.deb
+Size: 744648
+MD5sum: a235a719396dbaecc3e4da4c1406b5c0
+SHA1: baaa1db4c276679de73ed60675bd8e1d36bda5bb
+SHA256: f54072b19c60e2a9441277685f3e158799af96b2a0d5f14e663eb8dedeb9376a
+Section: Tweaks
+Description: 侧边快捷切换应用程序、双重的便捷操作、可自由添加喜欢的应用来进行切换操作（自行破解，本版仅整合了修复键盘的补丁）
+Author: c1d3r
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.pulloverpro
+Name: PullOver Pro
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.pulloverpro/pulloverpro.json
+
+Package: com.reyno.pulloverpro
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
 Filename: ./debs/com.reyno.pulloverpro_2.1.1_iphoneos-arm.deb
 Size: 744648
 MD5sum: a235a719396dbaecc3e4da4c1406b5c0
@@ -191,6 +379,23 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Reyno
 Depends: mobilesubstrate, preferenceloader
+Filename: ./repo/debs/com.reyno.rescale2_1.0.2_iphoneos-arm.deb
+Size: 97656
+MD5sum: 8ba3b8a53ce8cf6b72bf01047238b558
+SHA1: 21c904211a3800d6aea8aa41b0340b79ef5a452e
+SHA256: cf511ba71e3c7373b00e63b83ced55afbc138a6fdfef165a9b93144df8b77747
+Section: Tweaks
+Description: 支持iPhone 4s-iphone12 Pro Max修改分辨率的神器，不管是使用iCleaner Pro清理或是重新越狱，都不会重置原始分辨率！
+Author: Sniper_GER
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.rescale2
+Name: Re:Scale 2
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.rescale2/rescale2.json
+
+Package: com.reyno.rescale2
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.reyno.rescale2_1.0.2_iphoneos-arm.deb
 Size: 97656
 MD5sum: 8ba3b8a53ce8cf6b72bf01047238b558
@@ -202,6 +407,42 @@ Author: Sniper_GER
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.rescale2
 Name: Re:Scale 2
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.rescale2/rescale2.json
+
+Package: com.reyno.rescale2
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: ./debs/com.reyno.rescale2_1.0.4_iphoneos-arm.deb
+Size: 104344
+MD5sum: e3a5c3202b91ddc5da3436fab76110b2
+SHA1: c3f4a1ecfbeda9653723850c25872ccefa957fca
+SHA256: e49fe03ce576a004fe7d550ec8b04fac4744b68382f4ad23b7696bd8181c451d
+Section: Tweaks
+Description: 支持iPhone 4s-iphone12 Pro Max修改分辨率的神器，不管是使用iCleaner Pro清理或是重新越狱，都不会重置原始分辨率！
+Author: Sniper_GER
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.rescale2
+Name: Re:Scale 2
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.rescale2/rescale2.json
+
+Package: com.reyno.shuffle
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Reyno
+Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Conflicts: com.cpdigitaldarkroom.placeholder, com.creaturecoding.shuffle
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./repo/debs/com.reyno.shuffle_1.3.4_iphoneos-arm.deb
+Size: 294356
+MD5sum: f4d74d4f6e0764c56e15674e8636d969
+SHA1: 87da1a210c83f53104d69394c15dc8e96c83acf8
+SHA256: d0ec5ca0cf4e5b1839a2dd138686317a46336bf76a163fcb0804c5fed76cb19b
+Section: Tweaks
+Description: 中文版-设置界面归类整理、可调整圆角、可在顶部添加喜欢的图片！
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.shuffle
+Name: ShuffLe
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.shuffle/shuffle.json
 
 Package: com.reyno.shuffle
 Version: 1.3.4
@@ -221,6 +462,23 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://apt.reyno.top/describe/?p=com.reyno.shuffle
 Name: ShuffLe
 Sileodepiction: https://apt.reyno.top/describe/com.reyno.shuffle/shuffle.json
+
+Package: com.reyno.simplus
+Version: 1.14-beta2
+Architecture: iphoneos-arm
+Maintainer: IArrays
+Depends: firmware (>=13.0-14.5)
+Filename: ./repo/debs/com.reyno.simplus_1.14-beta2_iphoneos-arm.deb
+Size: 866812
+MD5sum: 78155f6efb5a09b6cb6d4289373319c5
+SHA1: a594ffc192a513674208230df80447a38536205c
+SHA256: a4a244aca91b6dd72d775d82889852f1aa50d226b4643f443b2f9e9e9228e427
+Section: Tweaks
+Description: 拨打电话和发送短信时，弹出双卡选项，内置了芯片图标、中文破解版
+Author: IArrays
+Depiction: https://apt.reyno.top/describe/?p=com.reyno.simplus
+Name: eSim+
+Sileodepiction: https://apt.reyno.top/describe/com.reyno.simplus/simplus.json
 
 Package: com.reyno.simplus
 Version: 1.14-beta2
